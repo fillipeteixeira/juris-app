@@ -1,16 +1,14 @@
-# juris_app
+# Flutter Jurisprudência App.
 
-A new Flutter application.
 
-## Getting Started
+## Consulta de decisões judiciais.
 
-This project is a starting point for a Flutter application.
+Essa primeira versão somente executa consultas simples do tema da jurisprudência, nas próximas
+serão acrescentados mais parametros de busca, incluindo também paginação.
 
-A few resources to get you started if this is your first Flutter project:
+![Alt text](https://github.com/valksandro/juris-app/blob/master/images/Capturar.PNG "Screen 1")
+![Alt text](https://github.com/valksandro/juris-app/blob/master/images/Capturar5.PNG "Screen 5")
+![Alt text](https://github.com/valksandro/juris-app/blob/master/images/Capturar2.PNG "Screen 3")
+![Alt text](https://github.com/valksandro/juris-app/blob/master/images/Capturar3.PNG "Screen 4")
+![Alt text](https://github.com/valksandro/juris-app/blob/master/images/Capturar4.PNG "Screen 5")
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
