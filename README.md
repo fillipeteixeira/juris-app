@@ -1,7 +1,7 @@
 # Flutter Jurisprudência App.
 
 
-## Acesso ao Heroku via http e executa consulta de decisões judiciais.
+## Acesso ao Heroku via http. Consulta de decisões judiciais.
 
 Essa primeira versão somente executa consultas simples do tema da jurisprudência, nas próximas
 serão acrescentadas mais parametros para busca, incluindo também paginação.
