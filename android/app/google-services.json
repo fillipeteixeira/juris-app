@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "139116315335",
+    "firebase_url": "https://decisao-juris.firebaseio.com",
+    "project_id": "decisao-juris",
+    "storage_bucket": "decisao-juris.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139116315335:android:6bca68c6fa26d83d",
+        "android_client_info": {
+          "package_name": "com.juris.jurisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139116315335-smjf8ggop0spet10eq81kjme7p2k7ls0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi4dz7CESAhd1FQ0knwXlGAQ-yCf3E3N8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
