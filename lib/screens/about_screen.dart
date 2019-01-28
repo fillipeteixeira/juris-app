@@ -24,7 +24,7 @@ class AboutScreen extends StatelessWidget {
                     ListTile(
                       leading: Icon(Icons.bug_report, color: Colors.black),
                       title: Text("Achou algum erro?"),
-                      subtitle: Text("Reporte-nos para que possomas melhorar"),
+                      subtitle: Text("Reporte-nos para que possamos melhorar"),
                     ),
                     ListTile(
                       leading: Icon(Icons.update, color: Colors.black),
