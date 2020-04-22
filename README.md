@@ -3,8 +3,8 @@
 
 ## Consulta de decisões judiciais.
 
-Essa primeira versão somente executa consultas simples do tema da jurisprudência, nas próximas
-serão acrescentados mais parametros de busca, incluindo também paginação.
+Essa primeira versão somente executa consulta simples do tema da jurisprudência, nas próximas,
+serão adicionados parametros de busca, incluindo paginação.
 
 ![Juris App Flutter Demo](https://github.com/valksandro/juris-app/blob/master/lib/screens/juris-app.gif)
 
